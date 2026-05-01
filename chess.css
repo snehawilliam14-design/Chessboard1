@@ -1,0 +1,161 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.outer
+{
+    background-color: orangered;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer >.inner
+{
+  height:400px;
+  width: 400px;
+  /* border: 2px solid black; */
+}
+.inner >.row1
+{
+  display: flex;
+}
+.row1 >.w
+{
+  height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
+.row1 >.b
+{
+  height:50px;
+  width:50px;
+  background-color: black;
+}
+
+.inner >.row2
+{
+  display: flex;
+}
+.row2 >.b
+{
+   height:50px;
+  width:50px;
+  background-color: black;
+}
+.row2 > .w
+{
+ height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
+
+.inner >.row3
+{
+  display: flex;
+}
+.row3 >.w
+{
+  height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
+.row3 >.b
+{
+  height:50px;
+  width:50px;
+  background-color: black;
+}
+
+
+.inner >.row4
+{
+  display: flex;
+}
+.row4 >.b
+{
+   height:50px;
+  width:50px;
+  background-color: black;
+}
+.row4 > .w
+{
+ height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
+
+
+.inner >.row5
+{
+  display: flex;
+}
+.row5 >.w
+{
+  height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
+.row5 >.b
+{
+  height:50px;
+  width:50px;
+  background-color: black;
+}
+
+
+.inner >.row6
+{
+  display: flex;
+}
+.row6 >.b
+{
+   height:50px;
+  width:50px;
+  background-color: black;
+}
+.row6 > .w
+{
+ height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
+
+
+.inner >.row7
+{
+  display: flex;
+}
+.row7 >.w
+{
+  height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
+.row7 >.b
+{
+  height:50px;
+  width:50px;
+  background-color: black;
+}
+
+
+.inner >.row8
+{
+  display: flex;
+}
+.row8 >.b
+{
+   height:50px;
+  width:50px;
+  background-color: black;
+}
+.row8 > .w
+{
+ height:50px;
+  width:50px;
+  background-color: aliceblue;
+}
